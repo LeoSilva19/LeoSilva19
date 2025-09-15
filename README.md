@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Leonardo Araújo!
 
 💻 Sou Desenvolvedor Front-End apaixonado por tecnologia e por transformar ideias em interfaces modernas, responsivas e funcionais.
 🎨 Meu foco está em criar experiências digitais que unam design intuitivo com código limpo.
